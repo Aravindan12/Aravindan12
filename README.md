@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravindan12" alt="aravindan12" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Aravind89430753" target="blank"><img src="https://img.shields.io/twitter/follow/aravindan a?logo=twitter&style=for-the-badge" alt="aravindan a" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Aravind89430753" target="blank"><img src="https://img.shields.io/twitter/follow/Aravind89430753?logo=twitter&style=for-the-badge" alt="aravindan a" /></a> </p>
 
 - 🔭 I’m currently working on **Larevel 8.**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aravindkumaranakr@gmail.com**
 
-- 📄 Know about my experiences [Till (may)2022 - 1 year of experience](Till (may)2022 - 1 year of experience)
+- 📄 Know about my experiences [Till (may)2022 - 1 year of experience]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
