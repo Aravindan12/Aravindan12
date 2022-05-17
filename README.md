@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravindan12" alt="aravindan12" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aravindan a" target="blank"><img src="https://img.shields.io/twitter/follow/aravindan a?logo=twitter&style=for-the-badge" alt="aravindan a" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Aravind89430753" target="blank"><img src="https://img.shields.io/twitter/follow/aravindan a?logo=twitter&style=for-the-badge" alt="aravindan a" /></a> </p>
 
 - 🔭 I’m currently working on **Larevel 8.**
 
@@ -13,16 +13,16 @@
 
 - 💬 Ask me about **Laravel,php**
 
-- 📫 How to reach me **aravinkumaranakr@gmail.com**
+- 📫 How to reach me **aravindkumaranakr@gmail.com**
 
 - 📄 Know about my experiences [Till (may)2022 - 1 year of experience](Till (may)2022 - 1 year of experience)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aravindan a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aravindan a" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aravind a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aravind a" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/aravindan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aravindan" height="30" width="40" /></a>
-<a href="https://instagram.com/itzaravindan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzaravindan" height="30" width="40" /></a>
+<a href="https://twitter.com/Aravind89430753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aravindan a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aravind-a-b77631200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aravind a" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15704731/aravindan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aravindan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/itzaravindan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzaravindan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
