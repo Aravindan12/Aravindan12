@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Larevel 8.**
 
-- 🌱 I’m currently learning **Advanced Laravel.**
+- 🌱 I’m currently learning **Advanced Laravel, Angular.**
 
 - 💬 Ask me about **Laravel,php**
 
