@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aravindkumaranakr@gmail.com**
 
-- 📄 Know about my experiences [Till (may)2022 - 1 year of experience]
+- 📄 Know about my experiences [Till (july)2023 - 2.6 year of experience]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
